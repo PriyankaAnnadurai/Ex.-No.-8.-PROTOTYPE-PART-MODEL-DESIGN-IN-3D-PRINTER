@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![](./C:\EMPD\ex8output.png)
+![ex8output](https://github.com/PriyankaAnnadurai/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118351569/41025aa6-784d-4a2a-a688-632aca3a7033)
 
 ### Name: PRIYANKA A
 ### Register Number: 212222230113
