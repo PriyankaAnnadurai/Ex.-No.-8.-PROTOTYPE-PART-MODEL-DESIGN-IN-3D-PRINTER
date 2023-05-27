@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![](./C:\EMPD\ex8output.png)
 
 ### Name: PRIYANKA A
 ### Register Number: 212222230113
